@@ -20,8 +20,7 @@
 <hr>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulo-ultra&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="paulo-ultra" /></p> 
-<br>
-<br>
+
 <hr>
 
 <hr>
