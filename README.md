@@ -23,4 +23,8 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=paulo-ultra&show_icons=true&locale=en&theme=github_dark" alt="paulo-ultra" /></p> 
 <hr>
 
+[![Paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Paulo_Ultra&show_icons=true&theme=dark)](https://github.com/Paulo-Ultra/github-readme-stats)
+
+<hr>
+
 <h3 align='center'>By<em> Paulo Ricardo Freire Ultra </em> ©</h3>
