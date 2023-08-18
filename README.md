@@ -10,7 +10,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/paulo-ricardo-freire-ultra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paulo-ricardo-freire-ultra/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://pt.stackoverflow.com/users/275639/paulo-ricardo-freire-ultra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://pt.stackoverflow.com/users/275639/paulo-ricardo-freire-ultra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18536217/paulo-ricardo-freire-ultra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://pt.stackoverflow.com/users/275639/paulo-ricardo-freire-ultra" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prfultra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prfultra1" height="30" width="40" /></a>
 </p>
 <hr>
